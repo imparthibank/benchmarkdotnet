@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/benchmarkdotnet/Benchmarking.Benchmarkdotnet.Playground/bin
+/benchmarkdotnet/Benchmarking.Benchmarkdotnet.Playground/obj
+/benchmarkdotnet/.vs/benchmarkdotnet
+/.vs
