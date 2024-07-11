@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmarking.Benchmarkdotnet.Playground", "Benchmarking.Benchmarkdotnet.Playground\Benchmarking.Benchmarkdotnet.Playground.csproj", "{D460B273-56C7-46E6-B64A-93A64290D25E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Benchmark.Playground", "Benchmark.Playground\Benchmark.Playground.csproj", "{D460B273-56C7-46E6-B64A-93A64290D25E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

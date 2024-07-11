@@ -6,3 +6,6 @@
 /benchmarkdotnet/Benchmarking.Benchmarkdotnet.Playground/obj
 /benchmarkdotnet/.vs/benchmarkdotnet
 /.vs
+/benchmarkdotnet/Benchmark.Playground/bin
+/benchmarkdotnet/.vs/ProjectEvaluation
+/benchmarkdotnet/Benchmark.Playground/obj
